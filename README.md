@@ -76,9 +76,10 @@ Here are some of my projects
 # 📺 CodeForge Journey
 
 I document my learning journey here:
-- [YouTube (no vidoes yet but you can view the channel)]([url](https://www.youtube.com/@cadintech)))
----
 
+-Youtube: https://www.youtube.com/@cadintech (No videos yet)
+
+--
 # 🎯 Current Goals
 
 - Build 10 real projects
@@ -92,7 +93,7 @@ I document my learning journey here:
 # 🔗 Connect With Me
 
 - GitHub: https://github.com/cadinlafon
-- [Youtube]([url](https://www.youtube.com/@cadintech)))
+- Youtube: https://www.youtube.com/@cadintech
 - Portfolio (coming soon)
 
 ---

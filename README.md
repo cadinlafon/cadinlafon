@@ -12,8 +12,7 @@ I’m a self-learning developer building my skills in **coding, AI, cloud system
 - 💻 Building real-world coding projects
 - 🤖 Exploring AI tools and automation
 - 📚 Learning through Microsoft Learn, GitHub, and hands-on practice
-- 🎥 Documenting my journey on YouTube (CodeForge)
-
+- 🎥 Soon I will start documenting my [journey on youtube]([url](https://www.youtube.com/@cadintech))!
 ---
 
 # 🚀 My Mission
@@ -49,47 +48,35 @@ I’m on a journey to become a professional developer by:
 # 🏆 Certifications
 
 ## Completed / In Progress
-- AZ-900 — Microsoft Azure Fundamentals
-- AI-900 — Azure AI Fundamentals
-- SC-900 — Security Fundamentals
+I will list my certifactions here soon!
+-
+-
+-
 
 ## Future Goals
 - GitHub Certifications
 - Cloud Developer Certifications
 - AI Engineer Path
+- Google IT Certifactions
 
 ---
 
 # 📂 Featured Projects
 
-Here are some projects I’m working on or planning:
+Here are some of my projects
 
-- 🧮 Simple Calculator App
-- 🌐 Personal Portfolio Website
-- 🤖 AI Chatbot Project
-- 📋 To-Do List App
-- 🔧 Automation Scripts
+- [Palouse Fellowship Audio App](app.palousefellowship.com)
+- 🌐 Personal Portfolio Website (coming soon)
+- 🤖 AI Chatbot Project (coming soon)
+- 📋 To-Do List App (coming soon)
+- 🔧 Automation Scripts (coming soon)
 
 ---
 
 # 📺 CodeForge Journey
 
 I document my learning journey here:
-- YouTube: [Add your link]
-- Learning logs
-- Project breakdowns
-- Tutorials and experiments
-
----
-
-# 📊 GitHub Stats
-
-*(Optional GitHub stats section)*
-
-- Contributions: Updating regularly
-- Projects: Growing portfolio
-- Learning streak: Consistent progress
-
+- [YouTube (no vidoes yet but you can view the channel)]([url](https://www.youtube.com/@cadintech)))
 ---
 
 # 🎯 Current Goals
@@ -104,17 +91,16 @@ I document my learning journey here:
 
 # 🔗 Connect With Me
 
-- GitHub: https://github.com/[your-username]
-- YouTube: [CodeForge Channel Link]
-- Portfolio: [Your website link]
+- GitHub: https://github.com/cadinlafon
+- [Youtube]([url](https://www.youtube.com/@cadintech)))
+- Portfolio (coming soon)
 
 ---
 
 # ⚡ CodeForge Philosophy
 
-> “Learn by building. Improve by shipping. Grow by sharing.”
 
-I believe the best way to learn programming is by creating real projects, not just watching tutorials.
+I believe the best way to learn programming is by creating real projects, not just watching tutorials (But do still watch tutorials).
 
 ---
 
